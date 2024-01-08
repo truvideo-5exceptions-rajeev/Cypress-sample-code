@@ -4,7 +4,8 @@
   "description": "Automation test for TreeNation",
   "main": "index.js",
   "scripts": {
-    "test": "cypress run"
+    "test": "cypress run",
+    "start": "cypress run"
   },
   "keywords": [
     "automation",
