@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "cypress run",
-    "start": "cypress run"
+    "start": "cypress run --record"
   },
   "keywords": [
     "automation",
